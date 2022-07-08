@@ -11,7 +11,7 @@ IDE: Visual Studio 2019
 #
 
 Kind regards,
-Group 11
+Group 11 -
 Jelly Ann D. Pananganan & Mary Angel R. Fuentes
 BSIT-3B Java
 
