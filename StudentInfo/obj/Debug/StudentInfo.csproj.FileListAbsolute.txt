@@ -1,0 +1,31 @@
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe.config
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\StudentInfo\StudentInfo\bin\Debug\StudentInfo.pdb
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Form1.resources
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Properties.Resources.resources
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csproj.GenerateResource.Cache
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.exe
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb
+C:\Users\lab2\Documents\Visual Studio 2015\Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Form2.resources
+C:\Users\DENR\Desktop\MY FILES\MY DOCUMENTS\CTU_ICT\School Year 2020-2021\1STSEM\Database Management\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe.config
+C:\Users\DENR\Desktop\MY FILES\MY DOCUMENTS\CTU_ICT\School Year 2020-2021\1STSEM\Database Management\StudentInfo\StudentInfo\obj\Debug\StudentInfo.exe
+C:\Users\DENR\Desktop\MY FILES\MY DOCUMENTS\CTU_ICT\School Year 2020-2021\1STSEM\Database Management\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb
+C:\Users\DENR\Desktop\MY FILES\MY DOCUMENTS\CTU_ICT\School Year 2020-2021\1STSEM\Database Management\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe
+C:\Users\DENR\Desktop\MY FILES\MY DOCUMENTS\CTU_ICT\School Year 2020-2021\1STSEM\Database Management\StudentInfo\StudentInfo\bin\Debug\StudentInfo.pdb
+C:\Users\DENR\Desktop\MY FILES\MY DOCUMENTS\CTU_ICT\School Year 2020-2021\1STSEM\Database Management\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+C:\Users\DENR\Desktop\MY FILES\MY DOCUMENTS\CTU_ICT\School Year 2020-2021\1STSEM\Database Management\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Form1.resources
+C:\Users\DENR\Desktop\MY FILES\MY DOCUMENTS\CTU_ICT\School Year 2020-2021\1STSEM\Database Management\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Form2.resources
+C:\Users\DENR\Desktop\MY FILES\MY DOCUMENTS\CTU_ICT\School Year 2020-2021\1STSEM\Database Management\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Properties.Resources.resources
+C:\Users\DENR\Desktop\MY FILES\MY DOCUMENTS\CTU_ICT\School Year 2020-2021\1STSEM\Database Management\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Kolehiyo\3rd-Year\UnangSemester\DBMS-PC 318\WORKING-ON-ASSIGNMENTS\StudentInformationRegistry\StudentInformationRegistry\StudentInfo\bin\Debug\StudentInfo.exe.config
+C:\Users\user\Documents\Kolehiyo\3rd-Year\UnangSemester\DBMS-PC 318\WORKING-ON-ASSIGNMENTS\StudentInformationRegistry\StudentInformationRegistry\StudentInfo\obj\Debug\StudentInfo.exe
+C:\Users\user\Documents\Kolehiyo\3rd-Year\UnangSemester\DBMS-PC 318\WORKING-ON-ASSIGNMENTS\StudentInformationRegistry\StudentInformationRegistry\StudentInfo\obj\Debug\StudentInfo.pdb
+C:\Users\user\Documents\Kolehiyo\3rd-Year\UnangSemester\DBMS-PC 318\WORKING-ON-ASSIGNMENTS\StudentInformationRegistry\StudentInformationRegistry\StudentInfo\bin\Debug\stdnt.accdb
+C:\Users\user\Documents\Kolehiyo\3rd-Year\UnangSemester\DBMS-PC 318\WORKING-ON-ASSIGNMENTS\StudentInformationRegistry\StudentInformationRegistry\StudentInfo\bin\Debug\StudentInfo.exe
+C:\Users\user\Documents\Kolehiyo\3rd-Year\UnangSemester\DBMS-PC 318\WORKING-ON-ASSIGNMENTS\StudentInformationRegistry\StudentInformationRegistry\StudentInfo\bin\Debug\StudentInfo.pdb
+C:\Users\user\Documents\Kolehiyo\3rd-Year\UnangSemester\DBMS-PC 318\WORKING-ON-ASSIGNMENTS\StudentInformationRegistry\StudentInformationRegistry\StudentInfo\obj\Debug\StudentInfo.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Kolehiyo\3rd-Year\UnangSemester\DBMS-PC 318\WORKING-ON-ASSIGNMENTS\StudentInformationRegistry\StudentInformationRegistry\StudentInfo\obj\Debug\StudentInfo.Form1.resources
+C:\Users\user\Documents\Kolehiyo\3rd-Year\UnangSemester\DBMS-PC 318\WORKING-ON-ASSIGNMENTS\StudentInformationRegistry\StudentInformationRegistry\StudentInfo\obj\Debug\StudentInfo.Form2.resources
+C:\Users\user\Documents\Kolehiyo\3rd-Year\UnangSemester\DBMS-PC 318\WORKING-ON-ASSIGNMENTS\StudentInformationRegistry\StudentInformationRegistry\StudentInfo\obj\Debug\StudentInfo.Properties.Resources.resources
+C:\Users\user\Documents\Kolehiyo\3rd-Year\UnangSemester\DBMS-PC 318\WORKING-ON-ASSIGNMENTS\StudentInformationRegistry\StudentInformationRegistry\StudentInfo\obj\Debug\StudentInfo.csproj.GenerateResource.Cache
